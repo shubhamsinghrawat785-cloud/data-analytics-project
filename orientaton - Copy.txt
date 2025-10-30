@@ -1,0 +1,3 @@
+I want to solve sales performance and revenue growth problems using transaction and customer data.
+One metric I find interesting is Monthly Recurring Revenue (MRR) and growth rate.
+I’ll use this project to identify top customer segments and actions to increase retention.
