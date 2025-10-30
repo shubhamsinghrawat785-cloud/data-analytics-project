@@ -1,3 +1,4 @@
 I want to solve business performance problems using data (like sales and customer insights).
 One metric I find interesting is customer retention rate.
 Goal: use analytics to find trends and help companies make better decisions.
+This line was added directly from GitHub for pull practice.
